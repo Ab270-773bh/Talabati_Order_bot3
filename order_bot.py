@@ -14,8 +14,8 @@ from telegram.ext import (
 logging.basicConfig(level=logging.INFO)
 
 # ====== إعدادات المحل (عدّلها لكل زبون) ======
-TOKEN = os.environ["BOT_TOKEN"]          # من @BotFather
-OWNER_ID = int(os.environ["OWNER_ID"])   # رقم حساب صاحب المحل (من @userinfobot)
+TOKEN = os.environ["BOT_TOKEN"]          8795564106:AAEq_0pYEKkAIbfQZcQJHq_aR6VFqdwSdMI
+OWNER_ID = int(os.environ["OWNER_ID"])   8859887860
 SHOP_NAME = "مطعم الشام"
 CURRENCY = "$"
 MENU = {
